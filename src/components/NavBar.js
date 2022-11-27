@@ -1,4 +1,4 @@
-import logo from '/Users/aatishdhami/Documents/Personal Project/FirstReactProject/src/logo.svg';
+import logo from '/Users/aatishdhami/Documents/Personal Project/FirstReactProject/src/images/logo.svg';
 
 export default function Nav() {
     return(
